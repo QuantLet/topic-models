@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: VisualOverfittingExemp
 
-Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing
+Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing"
 
 Description: Uses a decision tree regression to give a visual example of overfitting
 

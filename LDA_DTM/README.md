@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: gensimLDA
 
-Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing
+Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing"
 
 Description: Contains applications based on Python gensim to train and use Latent Dirichlet Allocation (LDA) and Dynamic Topic Models (DTM)
 
@@ -18,7 +18,7 @@ Author: Jerome Bau
 Submitted: November 17 2016 by Jerome Bau
 
 Input: 
-- 'mm corpus and id2word dictionaries created by gensim wikipedia make files OR 
-- 'raw txt files, cleaned of any punctuation marks and in ASCII encoding
+- mm corpus and id2word dictionaries created by gensim wikipedia make files OR
+- raw txt files, cleaned of any punctuation marks and in ASCII encoding
 
 ```

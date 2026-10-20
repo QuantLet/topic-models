@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: Doc2VectorSpace
 
-Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing
+Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing"
 
 Description: Represents large documents with at least partially overlapping vocabulary in a 3d vector space
 

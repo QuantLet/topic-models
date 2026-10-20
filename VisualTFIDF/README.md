@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: VisualTFIDF
 
-Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing
+Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing"
 
 Description: Plots index terms of large text corpora with respect to their document frequency in the corpus
 

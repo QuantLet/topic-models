@@ -7,11 +7,11 @@
 ```
 Name of Quantlet: Doc2ASCII_no_punct
 
-Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing
+Published in: Bachelor Thesis "Probabilistic Topic Models in Natural Language Processing"
 
 Description: Removes all punctuation marks and transforms the input to ASCII
 
-Keywords: text mining, preprocessing, bash, preprocessing, ASCII 
+Keywords: text mining, preprocessing, bash, preprocessing, ASCII
 
 Author: Jerome Bau
 
